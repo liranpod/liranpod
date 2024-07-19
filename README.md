@@ -13,7 +13,7 @@ I am passionate about all things data. I have worked with many different program
 * Statistical Analysis
 * Machine Learning
 * Artificial Intelligence
-* Data Visualization
+* Data Visualization (Tableau, PowerBI)
 * Cloud Services (Azure, AWS)
 
 **🌍 Languages**
