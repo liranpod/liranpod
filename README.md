@@ -36,7 +36,7 @@ I have completed some cool projects! Below is a list of some of my biggest achie
 A more extensive portfolio can be found here:
 _datascienceportfol.io/liranpod_
 
-**Connect With Me**
+**🔗 Connect With Me**
 
 [LinkedIn](https://www.linkedin.com/in/liran-podolsky/)
 
