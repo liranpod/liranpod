@@ -14,7 +14,7 @@ I am passionate about all things data. I have worked with many different program
 * Machine Learning
 * Artificial Intelligence
 * Data Visualization (Tableau, PowerBI)
-* Cloud Services (Azure, AWS)
+* Cloud Services (Azure, AWS, GCP)
 
 **🌍 Languages**
 
