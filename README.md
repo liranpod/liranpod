@@ -33,9 +33,6 @@ I have completed some cool projects! Below is a list of some of my biggest achie
 * A comment toxicity app 🤬
 * An AI that can detect pneumonia 🩺
 
-A more extensive portfolio can be found here:
-_datascienceportfol.io/liranpod_
-
 **🔗 Connect With Me**
 
 [LinkedIn](https://www.linkedin.com/in/liran-podolsky/)
