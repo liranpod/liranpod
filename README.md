@@ -27,16 +27,9 @@ I code mainly with the following programming languages:
 
 **🚀 Projects**
 
-I have completed some cool projects! Below is a list of some of my biggest achievements:
-* An AI that can lip read 🤐
-* An iris detection AI 👁️
-* A comment toxicity app 🤬
-* An AI that can detect pneumonia 🩺
 
 **🔗 Connect With Me**
 
 [LinkedIn](https://www.linkedin.com/in/liran-podolsky/)
-
-[Kaggle](https://www.kaggle.com/liranpodol)
 
 # Feel free to check out some of my work!
