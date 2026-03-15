@@ -27,6 +27,7 @@ I code mainly with the following programming languages:
 
 **🚀 Projects**
 
+...
 
 **🔗 Connect With Me**
 
